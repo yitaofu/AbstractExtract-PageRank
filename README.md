@@ -1,0 +1,1 @@
+该项目是使用PageRank方法进行摘要提取，ExtractPaper的文件夹是抽取店长笔记，AllPaper-PageRank的文件夹是对店长笔记进行摘要抽取
